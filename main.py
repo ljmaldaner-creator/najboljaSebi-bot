@@ -9,7 +9,7 @@ import threading
 
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = os.environ.get("TOKEN")
+TOKEN = "8968665017:AAHiCp5c35VQQ0b6dhZ8q|crFA-CQnJRFYO"
 
 ZADACI = [
     "Dan 1 - Inventar umora\n\nZapisi tri stvari koje radis 'na misice' jer mislis da niko drugi nece.",
